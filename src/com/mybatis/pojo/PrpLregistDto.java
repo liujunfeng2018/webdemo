@@ -1,6 +1,4 @@
-package com.mybatis;
-
-import java.util.Date;
+package com.mybatis.pojo;
 
 public class PrpLregistDto {
     private String registNo;
